@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+img{
+	width:300px;
+}
+h1{
+	font-size:53px;
+}
+.card {
+	width: 300px;
+	padding:40px;
+	background-color:#e0e0e0;
+}
+.container {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+pricing-card-Saifk601/styles.css at master · acciojob/pricing-card-Saifk601 · GitHub
